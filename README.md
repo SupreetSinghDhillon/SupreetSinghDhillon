@@ -1,4 +1,4 @@
-👋 Hi there! I'm Preet, a fourth-year Computing Science student at Simon Fraser University. My passion lies in the practical applications of technology, and I'm always on the lookout for innovative solutions to real-world problems.
+👋 Hi there! I'm Supreet Dhillon, a fourth-year Computing Science student at Simon Fraser University. My passion lies in the practical applications of technology, and I'm always on the lookout for innovative solutions to real-world problems.
 
 🔧 **Technical Skills:**
 - **Languages:** Java, Python, C++, JavaScipt, TypeScript
