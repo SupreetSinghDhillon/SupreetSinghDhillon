@@ -16,4 +16,4 @@
 
 🌟 I'm always eager to collaborate, share knowledge, and explore new opportunities in the tech world. Let's connect and create something amazing together!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/supreet-singh-dhillon) | [Portfolio](https://supreetsinghdhillon.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/supreetsinghdhillon/) | [Portfolio](https://supreetsinghdhillon.com/)
